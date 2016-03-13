@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Bits And Pizza2</string>
+    <string name="title_top">Top Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_create_order">Create Order</string>
+    <string-array name="pizzas">
+        <item>Magaritaa</item>
+        <item>Capcicum Cornizza</item>
+        <item>Onion Trouble</item>
+        <item>Mixizza</item>
+        <item>Tomato Trouble</item>
+    </string-array>
+
+
+    <string-array name="pasta">
+        <item>White Sauce Pasta</item>
+        <item>Red Sauce Paste</item>
+        <item>No Sauce Pasta</item>
+        <item>Sasta Gareeb K Liye Pasta</item>
+        <item>Teri Aukat se bahar walla Pasta</item>
+    </string-array>
+
+    <string-array name="storages">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Himachal Pradesh</item>
+        <item>Haryana</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pastas</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
