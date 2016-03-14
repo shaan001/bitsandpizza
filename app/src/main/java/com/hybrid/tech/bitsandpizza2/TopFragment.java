@@ -12,6 +12,8 @@ public class TopFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return super.onCreateView(inflater, container, savedInstanceState);
+        View layout=inflater.inflate(R.layout.activity_top_fragment,container,false);
+    return layout;
+        //return super.onCreateView(inflater, container, savedInstanceState);
     }
 }

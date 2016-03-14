@@ -9,5 +9,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/title_top"
+        android:textSize="50dp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here"
+        android:layout_alignParentBottom="true"
         />
 </RelativeLayout>
